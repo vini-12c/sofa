@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #D9CDF7;
+    color: #271A45;
+}
+.all{
+    margin-top: 1rem;
+    margin-left: 26rem;
+}
+img{
+    width: 36rem;
+    height: 22rem;
+}
+h1{
+    font-family: "Crimson Pro", serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 40px;
+    margin-top: 1rem;
+}
+.textos{
+    margin-top: 0.5rem;
+    margin-left: 6rem;
+}
+.code{
+    
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 10px;
+}
+.din{
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 10px;
+    margin-top: 1rem;
+}
+
+button{
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 13px;
+    line-height: 10px;
+    margin-top: 1rem;
+    width: 12rem;
+    border-radius: 4rem;
+    height: 2.5rem;
+
+}
+p{
+    font-family: "Lato", sans-serif;
+}
